@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MIUI Lockscreen Dialer</string>
+    <string name="description">Add missed lockscreen dialer shortcut on MIUIv7</string>
+
+    <string name="package_name">Dialer package name</string>
+    <string name="package_activity">Dialer activity (with package name)</string>
+
+    <string name="save">Save</string>
+    <string name="save_success">Saved successfully!</string>
+</resources>
